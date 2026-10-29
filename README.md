@@ -6,7 +6,7 @@ Um jogo 3D de ação e sobrevivência completo e polido desenvolvido com **Three
 
 Depois que o GitHub Pages terminar o deploy, acesse: https://joseluizgo.github.io/NaveGame/
 
-O deploy é feito automaticamente a cada atualização da branch `main`.
+Na primeira publicação, em **Settings → Pages**, selecione **GitHub Actions** como origem. Depois, cada atualização da branch `main` publica o jogo automaticamente.
 
 ---
 
